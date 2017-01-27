@@ -63,7 +63,7 @@ import { AppComponent }   from './app.component';
 export class AppModule { }
 
 ```
-#### Bootstrap you application
+#### Bootstrap your application
 ```ts
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
